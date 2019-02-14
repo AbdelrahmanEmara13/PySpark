@@ -11,6 +11,7 @@ The output should be when we get the unique value per key
 We also need to get the unique values globally
 
 Question two:
+
 Using the purplecow.txt file on the VM, write a Spark job that reads
 the file and prints on the screen the line that is the longest.
 Hints :
